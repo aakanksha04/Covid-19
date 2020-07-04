@@ -1,4 +1,4 @@
-# Covid-19 Statistics
+# [Covid-19 Statistics](https://aakanksha04.github.io/Covid-19/)
 
 This project is developed by Aakanksha Khatri while training at Cipher Schools, under the guidance of my trainer Mr. Palash Tripathi.
 
