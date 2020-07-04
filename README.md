@@ -4,4 +4,4 @@ This project is developed by Aakanksha Khatri while training at Cipher Schools, 
 
 I used covid19api.com API for fetching the latest data of Covid-19.
 
-Do check it https://aakanksha04.github.io/Covid-19/
+[Do check it once](https://aakanksha04.github.io/Covid-19/)
